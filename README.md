@@ -28,10 +28,10 @@
 
 | 课程名称               | 老师名称 | 建设情况 | 参考来源                                                     | 个人评价           |
 | ---------------------- | -------- | -------- | ------------------------------------------------------------ | ------------------ |
-| 高级数据结构与算法分析 | 毛宇尘   | Notes    | [Zhang-Each](https://github.com/Zhang-Each/CourseNoteOfZJUSE/blob/master/ADS高级数据结构与算法分析/ADS-Review.md) | :star::star::star: |
+| 高级数据结构与算法分析 | 毛宇尘   | Notes    | [Zhang-Each](https://github.com/Zhang-Each/CourseNoteOfZJUSE/blob/master/ADS高级数据结构与算法分析/ADS-Review.md) | :star::star:       |
 | 数据库系统             | 孙建伶   | -        | 推荐：[Zhang-Each](https://github.com/Zhang-Each/CourseNoteOfZJUSE/tree/master/DBS数据库系统) | -                  |
 | 中国古代玉器           | 陈晶鑫   | Notes    | -                                                            | :star::star::star: |
-|                        |          |          |                                                              |                    |
+| 计算机组成与设计       | 姜晓红   | Notes    | -                                                            | :star::star::star: |
 |                        |          |          |                                                              |                    |
 |                        |          |          |                                                              |                    |
 |                        |          |          |                                                              |                    |
@@ -52,6 +52,10 @@
 （可能是GitHub上本课唯一的笔记）
 
 笔记比较全。
+
+### 计算机组成与设计
+
+姜女士的课，上课体验很好，当场画单周期和流水线CPU非常便于理解。笔记记的也比较全。
 
 ## 大三上
 
