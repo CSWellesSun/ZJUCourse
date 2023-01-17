@@ -34,7 +34,8 @@
 | 计算机视觉         | 潘纲     | Notes+期末复习           | -                                                            | :star::star:       |
 | 程序设计方法学     | 翁恺     | 弃                       | -                                                            | -                  |
 | 计算机网络         | 高艺     | Notes+自顶而下Notes+Lab6 | -                                                            | :star::star::star: |
-| 操作系统原理与实践 | 申文博   | Notes                    | [zju-icicles](https://github.com/QSCTech/zju-icicles/tree/master/操作系统) | :star::star:       |
+| 操作系统原理与实践 | 申文博   | Notes                    | [zju-icicles](https://github.com/QSCTech/zju-icicles/tree/master/操作系统) | :star:             |
+| Java应用技术       | 鲁伟明   | Notes+大作业             | [Zhang-Each](https://github.com/Zhang-Each/CourseNoteOfZJUSE/tree/master/Java应用技术) | :star::star:       |
 
 ### 计算机体系结构
 
@@ -79,3 +80,9 @@ CS144网上参考众多，这里略过。Socket通信Lab开源。建议考试多
 图灵班的OS的实验要求稍微高一些，但是也并没有多很多。暂时不开源OS Lab（PS：有同学在学期中开源Lab，导致被抄袭而扣分，请大家引以为戒）
 
 考试使用的CheatingSheet我是在 HJH A4 的基础上略做修改，主要是参考申老师的期末复习课，因为是纸上修改，这里不提供电子版。
+
+### Java应用技术
+
+Java的笔记基于 [Zhang-Each](https://github.com/Zhang-Each/CourseNoteOfZJUSE/tree/master/Java应用技术)，非常感谢学长！！！我参考翁恺和鲁伟明的讲课对学长的笔记进行了补充。
+
+Java大作业是做一个Swing+Socket+多线程+JDBC的应用，我由于时间问题，最后没有加上数据库部分。我实现了一个简易版的炉石，其中使用maven构建项目，项目使用MVC架构。项目链接：[Hearthstone-Swing](https://github.com/CSWellesSun/Hearthstone-Swing)
