@@ -36,6 +36,8 @@
 | 计算机网络         | 高艺     | Notes+自顶而下Notes+Lab6 | -                                                            | :star::star::star: |
 | 操作系统原理与实践 | 申文博   | Notes                    | [zju-icicles](https://github.com/QSCTech/zju-icicles/tree/master/操作系统) | :star:             |
 | Java应用技术       | 鲁伟明   | Notes+大作业             | [Zhang-Each](https://github.com/Zhang-Each/CourseNoteOfZJUSE/tree/master/Java应用技术) | :star::star:       |
+| 优化基本理论与方法 | 钱辉     | 预习中 :warning:         | -                                                            | -                  |
+| 理论计算机科学导引 | 金小刚   | 预习中 :warning:         | -                                                            | -                  |
 
 ### 计算机体系结构
 
