@@ -1,0 +1,3 @@
+[submodule "Java应用技术/Hearthstone-Swing"]
+	path = Java应用技术/Hearthstone-Swing
+	url = git@github.com:CSWellesSun/Hearthstone-Swing.git
