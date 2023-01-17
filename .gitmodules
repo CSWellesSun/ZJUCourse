@@ -1,3 +1,6 @@
 [submodule "Java应用技术/Hearthstone-Swing"]
 	path = Java应用技术/Hearthstone-Swing
 	url = git@github.com:CSWellesSun/Hearthstone-Swing.git
+[submodule "面向对象程序设计/KingRank"]
+	path = 面向对象程序设计/KingRank
+	url = git@github.com:CSWellesSun/KingRank.git

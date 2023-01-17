@@ -32,9 +32,7 @@
 | 数据库系统             | 孙建伶   | -        | 推荐：[Zhang-Each](https://github.com/Zhang-Each/CourseNoteOfZJUSE/tree/master/DBS数据库系统) | -                  |
 | 中国古代玉器           | 陈晶鑫   | Notes    | -                                                            | :star::star::star: |
 | 计算机组成与设计       | 姜晓红   | Notes    | -                                                            | :star::star::star: |
-|                        |          |          |                                                              |                    |
-|                        |          |          |                                                              |                    |
-|                        |          |          |                                                              |                    |
+| 面向对象程序设计       | 翁恺     | 大作业   | 推荐：[Zhang-Each](https://github.com/Zhang-Each/CourseNoteOfZJUSE/tree/master/OOP面向对象程序设计) | -                  |
 |                        |          |          |                                                              |                    |
 
 ### 高级数据结构与算法分析
@@ -55,7 +53,11 @@
 
 ### 计算机组成与设计
 
-姜女士的课，上课体验很好，当场画单周期和流水线CPU非常便于理解。笔记记的也比较全。
+姜女士的课，上课体验很好，当场画单周期和流水线CPU非常便于理解。笔记记的也比较全。计组Lab暂时不开源。
+
+### 面向对象程序设计
+
+继续靠 [Zhang-Each](https://github.com/Zhang-Each/CourseNoteOfZJUSE/tree/master/OOP面向对象程序设计) 学长救命。本学期大作业是写一个MUD，我拙劣的项目地址：[KingRank](https://github.com/CSWellesSun/KingRank)，可能有点特色的是JSON的读取和保存，总体很一般。
 
 ## 大三上
 
