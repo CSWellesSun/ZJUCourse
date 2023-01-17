@@ -29,8 +29,8 @@
 | 课程名称               | 老师名称 | 建设情况 | 参考来源                                                     | 个人评价           |
 | ---------------------- | -------- | -------- | ------------------------------------------------------------ | ------------------ |
 | 高级数据结构与算法分析 | 毛宇尘   | Notes    | [Zhang-Each](https://github.com/Zhang-Each/CourseNoteOfZJUSE/blob/master/ADS高级数据结构与算法分析/ADS-Review.md) | :star::star::star: |
-|                        |          |          |                                                              |                    |
-|                        |          |          |                                                              |                    |
+| 数据库系统             | 孙建伶   | -        | 推荐：[Zhang-Each](https://github.com/Zhang-Each/CourseNoteOfZJUSE/tree/master/DBS数据库系统) | -                  |
+| 中国古代玉器           | 陈晶鑫   | Notes    | -                                                            | :star::star::star: |
 |                        |          |          |                                                              |                    |
 |                        |          |          |                                                              |                    |
 |                        |          |          |                                                              |                    |
@@ -42,6 +42,16 @@
 感谢 [Zhang-Each](https://github.com/Zhang-Each/CourseNoteOfZJUSE/blob/master/ADS高级数据结构与算法分析/ADS-Review.md) ！！感谢毛老师！！本笔记在 [Zhang-Each](https://github.com/Zhang-Each/CourseNoteOfZJUSE/blob/master/ADS高级数据结构与算法分析/ADS-Review.md) 基础上加上毛老师的手写笔记内容。毛老师的ADS非常非常非常推荐！
 
 暂时不开源ADS Lab。
+
+### 数据库系统
+
+靠 [Zhang-Each](https://github.com/Zhang-Each/CourseNoteOfZJUSE/tree/master/DBS数据库系统) 学长的笔记救命。数据库第一年教改，MiniSQL是基于CMU15-445 Lab完成，暂时不开源。
+
+### 中国古代玉器
+
+（可能是GitHub上本课唯一的笔记）
+
+笔记比较全。
 
 ## 大三上
 
